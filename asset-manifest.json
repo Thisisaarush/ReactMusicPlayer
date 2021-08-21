@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/ReactMusicPlayer/static/css/main.d1265055.chunk.css",
+    "main.js": "/ReactMusicPlayer/static/js/main.bf2d2f89.chunk.js",
+    "main.js.map": "/ReactMusicPlayer/static/js/main.bf2d2f89.chunk.js.map",
+    "runtime-main.js": "/ReactMusicPlayer/static/js/runtime-main.acc511b1.js",
+    "runtime-main.js.map": "/ReactMusicPlayer/static/js/runtime-main.acc511b1.js.map",
+    "static/js/2.469898cd.chunk.js": "/ReactMusicPlayer/static/js/2.469898cd.chunk.js",
+    "static/js/2.469898cd.chunk.js.map": "/ReactMusicPlayer/static/js/2.469898cd.chunk.js.map",
+    "static/js/3.e979cd90.chunk.js": "/ReactMusicPlayer/static/js/3.e979cd90.chunk.js",
+    "static/js/3.e979cd90.chunk.js.map": "/ReactMusicPlayer/static/js/3.e979cd90.chunk.js.map",
+    "index.html": "/ReactMusicPlayer/index.html",
+    "static/css/main.d1265055.chunk.css.map": "/ReactMusicPlayer/static/css/main.d1265055.chunk.css.map",
+    "static/js/2.469898cd.chunk.js.LICENSE.txt": "/ReactMusicPlayer/static/js/2.469898cd.chunk.js.LICENSE.txt",
+    "static/media/cardigan.832cfdd8.mp3": "/ReactMusicPlayer/static/media/cardigan.832cfdd8.mp3",
+    "static/media/cover.ca670118.jpg": "/ReactMusicPlayer/static/media/cover.ca670118.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.acc511b1.js",
+    "static/js/2.469898cd.chunk.js",
+    "static/css/main.d1265055.chunk.css",
+    "static/js/main.bf2d2f89.chunk.js"
+  ]
+}
